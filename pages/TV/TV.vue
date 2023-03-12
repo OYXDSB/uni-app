@@ -2,7 +2,7 @@
 	<view class="wrap">
 		<u-row gutter="16">
 			<u-col span="3">
-				<view class="demo-layout bg-purple"></view>
+				<view class="demo-layout bg-purple">12323</view>
 			</u-col>
 			<u-col span="4">
 				<view class="demo-layout bg-purple-light"></view>
