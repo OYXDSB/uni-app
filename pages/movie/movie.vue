@@ -1,5 +1,5 @@
 <template>
-	<view class="box">123</view>
+	<view class="box">{{title}}</view>
 </template>
 
 <script>
